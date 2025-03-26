@@ -1,0 +1,2 @@
+Movies Datasets: https://raw.githubusercontent.com/Praful2000/YoutubeLectures/master/Movie%20KNN/movies.csv
+Ratings Datsets: https://raw.githubusercontent.com/Praful2000/YoutubeLectures/master/Movie%20KNN/ratings.csv
